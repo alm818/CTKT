@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Sat Aug 11 08:10:37 ICT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0165-2689-00ff-00000687b7e8 
+on database directory C:\Users\Home\Documents\CTKTFinal\DB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@23661c8 
+Loaded from file:/D:/Eclipse/workspace/CTKTFinal/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=10.0.2+13
+user.dir=D:\Eclipse\workspace\CTKTFinal
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Aug 11 08:13:58 ICT 2018:
+Shutting down instance a816c00e-0165-2689-00ff-00000687b7e8 on database directory C:\Users\Home\Documents\CTKTFinal\DB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@23661c8 
