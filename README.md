@@ -8,10 +8,10 @@ This program is used to complement the missing functionalities of [MISA](http://
 
 It also allows for **file extraction** and **file export** (in Excel) to represent statistical data that summarizes the monthly profits, liabilities and inventories of the company
 
-#####Example usage:
+##### Example usage:
 ![Profits usage](./ex1.png "Profits usage")
 
 There is also an additional functionality which tracks the staff's monthly salaries.
 
-#####Example usage:
+##### Example usage:
 ![Profits usage](./ex2.png "Salaries usage")
